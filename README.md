@@ -2,7 +2,7 @@
 
 A sleek, high-contrast **Catppuccin Mocha** theme for Blender, infused with a vibrant **Cyberpunk** aesthetic. Designed for maximum readability and a tactile, high-tech feel.
 
-![Cyber Catppuccin Banner](https://raw.githubusercontent.com/Demigirlboss0/blender-cyber-catppuccin/main/banner.png) *(Note: Placeholder image)*
+![Cyber Catppuccin Banner](https://raw.githubusercontent.com/Demigirlboss0/blender-cyber-catppuccin/main/Banner.svg)
 
 ## ✨ Features
 
