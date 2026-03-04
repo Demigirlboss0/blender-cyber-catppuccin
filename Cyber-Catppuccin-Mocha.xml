@@ -293,7 +293,7 @@
             text_sel="#ffffff"
             show_shaded="TRUE"
             shadetop="0"
-            shadedown="-100"
+            shadedown="-80"
             roundness="0"
             >
           </ThemeWidgetColors>
