@@ -11,10 +11,14 @@ A sleek collection of high-contrast **Catppuccin** themes for Blender, infused w
 - **Accents**: Vibrant **Mauve** and **Sapphire** highlights.
 - **Tactile Feedback**: Interactive elements glow **Blue (Sapphire)** on hover and **Purple (Mauve)** when active.
 
+![Mocha Showcase](https://raw.githubusercontent.com/Demigirlboss0/blender-cyber-catppuccin/main/mocha_showcase.png)
+
 ### 🥛 Cyber-Catppuccin Latte (Warm Light)
 - **Palette**: Warm **Cream** and **Steamed Milk** beige tones—designed to be easy on the eyes.
 - **Text**: Rich **Espresso brown** for soft, high-readability contrast.
 - **Tactile Feedback**: Clean, monochromatic **Lavender** glow for both hover and active states.
+
+![Latte Showcase](https://raw.githubusercontent.com/Demigirlboss0/blender-cyber-catppuccin/main/latte_showcase.png)
 
 ## 🚀 Installation
 
